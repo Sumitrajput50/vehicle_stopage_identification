@@ -1,0 +1,29 @@
+
+.map-container {
+    height: 500px;
+    width: 100%;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    margin-top: 20px;
+  }
+  
+  .leaflet-container {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .leaflet-popup-content {
+    font-size: 14px;
+    color: #495057;
+  }
+  
+  .leaflet-popup-content-wrapper {
+    background: #f8f9fa;
+    border-radius: 4px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .leaflet-popup-tip {
+    background: #f8f9fa;
+  }
+  
